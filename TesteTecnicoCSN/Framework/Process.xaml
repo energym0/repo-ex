@@ -158,7 +158,7 @@
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <ui:LogMessage DisplayName="Log Message Process Start" sap:VirtualizedContainerService.HintSize="522,175" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;Started Process&quot;]" />
-    <ui:LogMessage DisplayName="Log Message Process Start" sap:VirtualizedContainerService.HintSize="522,175" sap2010:WorkflowViewState.IdRef="LogMessage_6" Level="Info" Message="[&quot;teste GIT&quot;]" />
+    <ui:LogMessage DisplayName="Log Message Process Start" sap:VirtualizedContainerService.HintSize="522,175" sap2010:WorkflowViewState.IdRef="LogMessage_6" Level="Info" Message="[&quot;teste GIT NOVA BRANCH&quot;]" />
     <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="522,175" sap2010:WorkflowViewState.IdRef="LogMessage_4" Level="Info" Message="[&quot;Consultando API e consolidando as informações retornadas&quot;]" />
     <TryCatch sap2010:Annotation.AnnotationText="Sequence composta por um retry que vai tentar por 3 vezes se comunicar com a API, em caso de falha temos o trycatch pra identificar a origem do problema sendo eles mapeados (Indisponibilidade, HTTP500, Timeout), erro desconhecido o será lançada uma excessão sistêmica" DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="522,1650" sap2010:WorkflowViewState.IdRef="TryCatch_1">
       <sap:WorkflowViewStateService.ViewState>
