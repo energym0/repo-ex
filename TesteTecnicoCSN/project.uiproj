@@ -1,0 +1,6 @@
+{
+  "Name": "TesteTecnicoCSN",
+  "ProjectType": "Process",
+  "Description": "RPA resposável por consumir uma API que retorna lista de usuário e seus dados, e os consolida em um excel",
+  "MainFile": "Main.xaml"
+}
